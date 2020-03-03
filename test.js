@@ -1,1 +1,1 @@
-const masterConst = "mstrcnst";
+const masterConst = null;
